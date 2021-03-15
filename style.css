@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,400;1,700&display=swap');
+
+body{
+  background:pink;
+}
+span{
+  font-family:"Ubuntu", sans-serif
+  color:red;
+}
+.menu-btn{
+  color:green;
+  left:50%;
+}
