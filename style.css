@@ -1,13 +1,16 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,400;1,700&display=swap');
 
 body{
-  background:pink;
+  background:black;
 }
 span{
-  font-family:"Ubuntu", sans-serif;
-  color:red;
+  color:yellow;
+  font-size:50px;
+	font-family:"Ubuntu", sans-serif;
 }
-.menu-btn{
-  color:green;
-  left:50%;
+.menu-btn{   /*hamburger icon*/
+	color: blue;
+	font-size:23px;
+	cursor:pointer;
 }
